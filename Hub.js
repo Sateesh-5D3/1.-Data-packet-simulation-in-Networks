@@ -1,7 +1,6 @@
 export var C_hub = 1;
 export var list_hubs = [];
     list_hubs.push(-1);
-
 export class Hub           
             {
                 constructor()
